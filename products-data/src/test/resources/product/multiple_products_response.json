@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone",
+      "description": "Phone",
+      "category": "smartphones",
+      "price": 999.0,
+      "discountPercentage": 10.0,
+      "rating": 4.5,
+      "stock": 10,
+      "tags": [
+        "smartphones",
+        "apple"
+      ],
+      "brand": "Apple",
+      "sku": "IPHONE-001",
+      "weight": 0.17,
+      "dimensions": {
+        "width": 71.0,
+        "height": 146.0,
+        "depth": 8.0
+      },
+      "warrantyInformation": "1 year manufacturer warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent phone",
+          "date": "2026-01-01",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z",
+        "barcode": "123456789",
+        "qrCode": "https://example.com/qr"
+      },
+      "images": [
+        "https://example.com/iphone.jpg"
+      ],
+      "thumbnail": "image1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "MacBook",
+      "description": "Laptop",
+      "category": "laptops",
+      "price": 1999.0,
+      "discountPercentage": 5.0,
+      "rating": 4.8,
+      "stock": 5,
+      "tags": [
+        "laptops",
+        "apple"
+      ],
+      "brand": "Apple",
+      "sku": "MACBOOK-001",
+      "weight": 1.4,
+      "dimensions": {
+        "width": 304.0,
+        "height": 212.0,
+        "depth": 16.0
+      },
+      "warrantyInformation": "1 year manufacturer warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent laptop",
+          "date": "2026-01-02",
+          "reviewerName": "Jane Doe",
+          "reviewerEmail": "jane@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-01-02T00:00:00.000Z",
+        "updatedAt": "2026-01-02T00:00:00.000Z",
+        "barcode": "987654321",
+        "qrCode": "https://example.com/macbook-qr"
+      },
+      "images": [
+        "https://example.com/macbook.jpg"
+      ],
+      "thumbnail": "image2.jpg"
+    }
+  ],
+  "total": 2,
+  "skip": 0,
+  "limit": 20
+}

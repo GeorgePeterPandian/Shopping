@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "description": "Phone",
+      "price": 999.99,
+      "discountPercentage": 10.5,
+      "rating": 4.5,
+      "stock": 50,
+      "category": "smartphones",
+      "thumbnail": "image.jpg"
+    }
+  ],
+  "total": 1,
+  "skip": 0,
+  "limit": 20
+}

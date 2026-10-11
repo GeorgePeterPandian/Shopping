@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone",
+      "price": 999.99
+    }
+  ],
+  "total": 1,
+  "skip": 0,
+  "limit": 20,

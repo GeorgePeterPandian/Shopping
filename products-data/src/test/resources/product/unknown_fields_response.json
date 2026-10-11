@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone",
+      "description": "Apple phone",
+      "category": "smartphones",
+      "price": 999.99,
+      "discountPercentage": 10.5,
+      "rating": 4.5,
+      "stock": 50,
+      "tags": [
+        "smartphones",
+        "apple"
+      ],
+      "brand": "Apple",
+      "sku": "IPHONE-001",
+      "weight": 0.17,
+      "dimensions": {
+        "width": 71.0,
+        "height": 146.0,
+        "depth": 8.0
+      },
+      "warrantyInformation": "1 year manufacturer warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent phone",
+          "date": "2026-01-01",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z",
+        "barcode": "123456789",
+        "qrCode": "https://example.com/qr"
+      },
+      "images": [
+        "https://example.com/iphone.jpg"
+      ],
+      "thumbnail": "image.jpg",
+      "futureField": "this should be ignored",
+      "anotherUnknownField": 123
+    }
+  ],
+  "total": 1,
+  "skip": 0,
+  "limit": 20,
+  "unknownResponseField": true
+}

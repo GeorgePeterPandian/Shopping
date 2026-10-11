@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone \"Pro\" 日本語 📱",
+      "description": "Phone with émojis 🚀 and special characters: !@#$%^&*()",
+      "category": "smartphones",
+      "price": 999.99,
+      "discountPercentage": 10.5,
+      "rating": 4.5,
+      "stock": 50,
+      "tags": [
+        "smartphones",
+        "apple",
+        "日本語",
+        "📱"
+      ],
+      "brand": "Apple",
+      "sku": "SPECIAL-001",
+      "weight": 0.17,
+      "dimensions": {
+        "width": 71.0,
+        "height": 146.0,
+        "depth": 8.0
+      },
+      "warrantyInformation": "1 year manufacturer warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent phone 🚀 日本語",
+          "date": "2026-01-01",
+          "reviewerName": "José 日本",
+          "reviewerEmail": "jose@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-01-01T00:00:00.000Z",
+        "updatedAt": "2026-01-01T00:00:00.000Z",
+        "barcode": "123456789",
+        "qrCode": "https://example.com/qr"
+      },
+      "images": [
+        "https://example.com/image.jpg"
+      ],
+      "thumbnail": "https://example.com/image.jpg"
+    }
+  ],
+  "total": 1,
+  "skip": 0,
+  "limit": 20
+}
