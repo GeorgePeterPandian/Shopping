@@ -393,19 +393,26 @@ Repository Implementation
 
 Paging and Flow allow data to be delivered incrementally and observed by the UI. Hilt provides the dependencies required by each layer.
 
+## Demo Video
+
+Watch the Shopping Android application demo:
+
+[▶️ Watch Shopping Demo](https://github.com/GeorgePeterPandian/Shopping/blob/main/Demo/ShoppingDemo.mp4)
+
 ## Screenshots
 
-Add screenshots of the current application here as the UI is finalized.
+### Product List Screen
 
-Suggested sections:
+<img src="Screenshots/ProductListScreen.jpeg" alt="Product List Screen" width="300"/>
 
-### Light Mode
+### Product Detail Screen
 
-Add product catalogue and product detail screenshots.
+<img src="Screenshots/ProductDetailsHeader.jpeg" alt="Product Detail Header Screen" width="300"/>
 
-### Dark Mode
+<img src="Screenshots/ProductDetailsScreen.jpeg" alt="Product Detail Header Screen" width="300"/>
 
-Add product catalogue and product detail screenshots.
+<img src="Screenshots/ProductDetailsScreenFooter.jpeg" alt="Product Detail Header Screen" width="300"/>
+
 
 ## Future Improvements
 
