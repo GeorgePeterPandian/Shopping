@@ -397,7 +397,7 @@ Paging and Flow allow data to be delivered incrementally and observed by the UI.
 
 Watch the Shopping Android application demo:
 
-[▶️ Watch Shopping Demo](https://github.com/GeorgePeterPandian/Shopping/blob/main/Demo/ShoppingDemo.mp4)
+[▶️ Watch the full Shopping Demo](Demo/ShoppingDemo.mp4)
 
 ## Screenshots
 
@@ -409,9 +409,9 @@ Watch the Shopping Android application demo:
 
 <img src="Screenshots/ProductDetailsHeader.jpeg" alt="Product Detail Header Screen" width="300"/>
 
-<img src="Screenshots/ProductDetailsScreen.jpeg" alt="Product Detail Header Screen" width="300"/>
+<img src="Screenshots/ProductDetailsScreen.jpeg" alt="Product Detail Screen" width="300"/>
 
-<img src="Screenshots/ProductDetailsScreenFooter.jpeg" alt="Product Detail Header Screen" width="300"/>
+<img src="Screenshots/ProductsDetailsScreenFooter.jpeg" alt="Product Detail Footer Screen" width="300"/>
 
 
 ## Future Improvements
